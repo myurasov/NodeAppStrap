@@ -8,7 +8,7 @@ Featuring
 
 👾 App structure w/config/json handling/routing
 
-🐼 Live restarts
+🐼 Remote deployment
 
 
 ## Development
