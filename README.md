@@ -22,7 +22,7 @@ Server is automatically restarted whenever any source files are changed.
 
 ## Deployment to Remote Server
 
-* Create a RSA keypair
+* Create an RSA keypair
 * Place __production-remote.id_rsa__ in __dev/scripts/__
 * Add corresponding __*.id_rsa.pub__ file to the list of authorized keys
 * Install __forever__ on the server: `npm -g install forever`
