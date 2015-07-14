@@ -1,0 +1,23 @@
+{
+  "name": "__project__",
+  "version": "0.0.1",
+  "description": "<project>",
+  "author": "<author>",
+  "license": "<license>",
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-debug": "^2.0.1",
+    "gulp-load-plugins": "^1.0.0-rc.1",
+    "gulp-nodemon": "^2.0.3",
+    "require-dir": "^0.3.0",
+    "run-sequence": "^1.1.0",
+    "sync-exec": "^0.5.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "cors": "^2.7.1",
+    "express": "^4.13.1",
+    "morgan": "^1.6.1"
+  }
+}
